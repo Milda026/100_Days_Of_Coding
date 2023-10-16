@@ -26,5 +26,6 @@ public class day3 {
         System.out.println("Jurusan: " + jurusan);
         System.out.println("Alamat: " + alamat);
     }
+    
 
 }

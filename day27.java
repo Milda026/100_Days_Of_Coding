@@ -9,9 +9,8 @@ public class day27 {
         System.out.println("Masukkan batas " );
         batas = sc.nextInt();
 
-        for (int i = 2; i <= batas; i += 2) {
+        for (int i = 1; i <= batas; i++) {
             System.out.println(i);
-        }
     }
-    
+    }
 }
